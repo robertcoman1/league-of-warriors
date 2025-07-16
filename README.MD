@@ -33,7 +33,7 @@ On Linux, make sure you run it in a desktop environment (e.g., GNOME/KDE) or wit
 
 Running in a headless environment (no GUI) will result in a HeadlessException.
 
-🚀 How to Run
+How to Run
 Build the project or just run :
 javac -cp .:lib/json_simple.jar -d out src/*.java
 java -cp "out:lib/*" Game
