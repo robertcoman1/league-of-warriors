@@ -2,7 +2,7 @@ Java 2D Grid RPG – Turn‑Based Combat
 This is a Java game (with a Swing GUI) where you can log in with one of the accounts defined in accounts.json.
 Each account is linked to multiple legends with unique abilities.
 
-📋 Game Overview
+Game Overview
 Accounts & Legends:
 The file accounts.json contains multiple accounts.
 When you log in with one of them, you can play as one of the associated legend, each having different stats and special abilities.
@@ -24,7 +24,7 @@ On your turn you can perform a normal attack or use a special ability.
 
 Defeat enemies to progress through the map.
 
-✅ Requirements
+Requirements
 Java 17+ installed.
 
 A graphical environment (GUI) is required to run the game:
