@@ -3,6 +3,7 @@ This is a Java game (with a Swing GUI) where you can log in with one of the acco
 Each account is linked to multiple legends with unique abilities.
 
 Game Overview
+Game Overview
 Accounts & Legends:
 The file accounts.json contains multiple accounts.
 When you log in with one of them, you can play as one of the associated legend, each having different stats and special abilities.
@@ -33,6 +34,7 @@ On Linux, make sure you run it in a desktop environment (e.g., GNOME/KDE) or wit
 
 Running in a headless environment (no GUI) will result in a HeadlessException.
 
+How to Run
 How to Run
 Build the project or just run :
 
